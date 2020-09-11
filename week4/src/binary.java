@@ -9,7 +9,7 @@ public class binary
         try {
             FileOutputStream basic = new FileOutputStream("numbers.dat");
             DataOutputStream writer = new DataOutputStream(basic);
-            writer.writeInt(Integer.MAX_VALUE);
+            writer.writeInt(Integer.MAX_VALUE); //4 bytes
             writer.close();
         } catch (IOException e) {
             System.out.println(e.getMessage());
