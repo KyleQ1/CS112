@@ -18,7 +18,7 @@ public class User implements Comparable<User> {
         int compareLength = -Integer.compare(u.password.length(), password.length());
         // length is the same
         if (compareLength == 0)
-            // passwords are the sameh
+            // passwords are the same
             if (password.compareToIgnoreCase(u.password) == 0)
                 // compare username
                 return username.compareToIgnoreCase(u.username);
