@@ -20,26 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b6d2157-89d9-4b76-ab8e-2ff566fcd6e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../numbers.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week1/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week1/EmployeeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week1/FileStats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week1/FileStatsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week1/TestScores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week1/TestScoresDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week2/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week2/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week2/Demo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week2/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week2/SmartPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week3/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week3/Demo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week3/Demo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week3/Demo4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week3/MovieLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week3/MovieReducerExtremes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week3/MovieReducerLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week4/text.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week10/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week10/week10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../week10/week10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week12/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +54,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CH20" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
