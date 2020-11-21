@@ -1,4 +1,5 @@
 dec*.txt
 enc*.txt
 dec*.bmp
-enc*.bmp  
+enc*.bmp
+/out/*  
