@@ -45,7 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week10" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -102,10 +102,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="993" y="321" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605756964490">
+    <state x="993" y="321" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605919547157">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="993" y="321" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1605756964490" />
+    <state x="993" y="321" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1605919547157" />
     <state width="1334" height="332" key="GridCell.Tab.0.bottom" timestamp="1605918544673">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
